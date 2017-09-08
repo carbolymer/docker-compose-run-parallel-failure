@@ -1,0 +1,43 @@
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BNo such container: ce8fbddead0b4f52c3b1f5793ef7a33e9a0cf53f0d2b9720d8e5cb50f6d6e5a3
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+Starting stress-rsyslog ... 
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1B[1A[2KStarting stress-rsyslog ... [32mdone[0m[1B[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+Starting stress-rsyslog ... 
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1B[1A[2KStarting stress-rsyslog ... [32mdone[0m[1B[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BStarting stress-rsyslog ... 
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1B[1A[2KStarting stress-rsyslog ... [32mdone[0m[1BNo such container: eca8b02cd19e70304a48a5bbd3f43073a24596d6e5b1d4ad4eed36c5e77e6879
+No such container: eca8b02cd19e70304a48a5bbd3f43073a24596d6e5b1d4ad4eed36c5e77e6879
+No such container: eca8b02cd19e70304a48a5bbd3f43073a24596d6e5b1d4ad4eed36c5e77e6879
+No such container: eca8b02cd19e70304a48a5bbd3f43073a24596d6e5b1d4ad4eed36c5e77e6879
+No such container: eca8b02cd19e70304a48a5bbd3f43073a24596d6e5b1d4ad4eed36c5e77e6879
+Starting stress-rsyslog ... 
+[1A[2KStarting stress-rsyslog ... [32mdone[0m[1Bstress: info: [1] dispatching hogs: 1 cpu, 500 io, 5 vm, 0 hdd
+stress: info: [1] dispatching hogs: 1 cpu, 500 io, 5 vm, 0 hdd
+stress: info: [1] dispatching hogs: 1 cpu, 500 io, 5 vm, 0 hdd
+stress: info: [1] successful run completed in 27s
+stress: info: [1] successful run completed in 30s
+stress: info: [1] successful run completed in 28s
+stress: info: [1] successful run completed in 26s
+stress: info: [1] successful run completed in 27s
+stress: info: [1] successful run completed in 25s
+stress: info: [1] successful run completed in 24s
+stress: info: [1] successful run completed in 24s
+stress: info: [1] successful run completed in 22s
+stress: info: [1] successful run completed in 22s
+stress: info: [1] successful run completed in 21s
+stress: info: [1] successful run completed in 21s
+stress: info: [1] successful run completed in 21s
+stress: info: [1] successful run completed in 20s

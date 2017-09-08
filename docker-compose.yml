@@ -1,0 +1,12 @@
+version: '3'
+services:
+    stress:
+        container_name: stress
+        image: dkuffner/docker-stress:latest
+        entrypoint: stress -c 1 -i 500 -m 5 -t 20s
+        depends_on:
+            - rsyslog
+    rsyslog:
+        image: voxxit/rsyslog
+        container_name: stress-rsyslog
+
